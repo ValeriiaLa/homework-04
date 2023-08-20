@@ -1,0 +1,49 @@
+* {
+    background-color: rgb(241, 218, 202);
+}
+
+
+h3 {
+    color: #F25C05;
+}
+
+
+#content {
+    color: rgb(2, 48, 88);
+}
+
+
+.title {
+    color: rgb(78, 38, 3);
+}
+
+
+.block.text {
+    color: rgb(50, 0, 75);
+}
+
+
+[class="text"] {
+    background-color: rgb(249, 249, 249);
+}
+
+
+.number-list ol {
+    color: rgb(69, 78, 3);
+}
+
+
+div > p {
+    color: rgb(255, 98, 0);
+}
+
+
+div + h4 {
+    color: rgb(44, 44, 152);
+}
+
+
+h4 ~ p {
+    color: rgb(36, 80, 191);
+}
+
